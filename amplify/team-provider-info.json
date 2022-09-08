@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-wargamer-staging-181815-authRole",
+      "UnauthRoleArn": "arn:aws:iam::658230396743:role/amplify-wargamer-staging-181815-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::658230396743:role/amplify-wargamer-staging-181815-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-wargamer-staging-181815-deployment",
+      "UnauthRoleName": "amplify-wargamer-staging-181815-unauthRole",
+      "StackName": "amplify-wargamer-staging-181815",
+      "StackId": "arn:aws:cloudformation:us-west-2:658230396743:stack/amplify-wargamer-staging-181815/9bc32ba0-2fa2-11ed-b5e0-02090a13d2bb",
+      "AmplifyAppId": "dwmcwnrhnav66"
+    }
+  }
+}
